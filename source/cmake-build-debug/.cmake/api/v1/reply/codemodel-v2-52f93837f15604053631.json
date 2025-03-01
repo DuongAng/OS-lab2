@@ -1,0 +1,132 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "os-lab1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "dedup::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dedup-Debug-82724ca5a2bb920ba793.json",
+					"name" : "dedup",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab2-Debug-acdf473695ae3f580dfc.json",
+					"name" : "lab2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab2_run::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab2_run-Debug-5cf25f61eaff07f9cf3e.json",
+					"name" : "lab2_run",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "os-lab1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-os-lab1-Debug-58209d079d822701b767.json",
+					"name" : "os-lab1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "os-lab1-app::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-os-lab1-app-Debug-a1ea7e05e2dbf6a58629.json",
+					"name" : "os-lab1-app",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "search-name::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-search-name-Debug-1222c9e41de21cacbb37.json",
+					"name" : "search-name",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sort-Debug-dd824869cc2b464d68d3.json",
+					"name" : "sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_lab2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_lab2-Debug-fca496f671fd4f11f40c.json",
+					"name" : "test_lab2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "throughput_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-throughput_test-Debug-2ed5940bce6d5b0167a1.json",
+					"name" : "throughput_test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/OS/clone/New folder/diy-shell-benchmark-24y-DuongAng/source/cmake-build-debug",
+		"source" : "D:/OS/clone/New folder/diy-shell-benchmark-24y-DuongAng/source"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

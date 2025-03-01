@@ -1,0 +1,4 @@
+"E:\CLion 2024.3.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=E:/CLion 2024.3.3/bin/ninja/win/x64/ninja.exe" -G Ninja -S "D:\OS\clone\New folder\diy-shell-benchmark-24y-DuongAng\source" -B "D:\OS\clone\New folder\diy-shell-benchmark-24y-DuongAng\source\cmake-build-debug"
+-- Configuring done (0.2s)
+-- Generating done (0.1s)
+-- Build files have been written to: D:/OS/clone/New folder/diy-shell-benchmark-24y-DuongAng/source/cmake-build-debug

@@ -1,0 +1,10 @@
+D:/OS/clone/New folder/diy-shell-benchmark-24y-DuongAng/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/OS/clone/New folder/diy-shell-benchmark-24y-DuongAng/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/OS/clone/New folder/diy-shell-benchmark-24y-DuongAng/cmake-build-debug/source/CMakeFiles/search-name.dir
+D:/OS/clone/New folder/diy-shell-benchmark-24y-DuongAng/cmake-build-debug/source/CMakeFiles/dedup.dir
+D:/OS/clone/New folder/diy-shell-benchmark-24y-DuongAng/cmake-build-debug/source/CMakeFiles/sort.dir
+D:/OS/clone/New folder/diy-shell-benchmark-24y-DuongAng/cmake-build-debug/source/CMakeFiles/throughput_test.dir
+D:/OS/clone/New folder/diy-shell-benchmark-24y-DuongAng/cmake-build-debug/source/CMakeFiles/os-lab1.dir
+D:/OS/clone/New folder/diy-shell-benchmark-24y-DuongAng/cmake-build-debug/source/CMakeFiles/os-lab1-app.dir
+D:/OS/clone/New folder/diy-shell-benchmark-24y-DuongAng/cmake-build-debug/source/CMakeFiles/edit_cache.dir
+D:/OS/clone/New folder/diy-shell-benchmark-24y-DuongAng/cmake-build-debug/source/CMakeFiles/rebuild_cache.dir

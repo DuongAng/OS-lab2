@@ -1,0 +1,203 @@
+{
+	"globsDependent" : 
+	[
+		{
+			"expression" : "C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/*.cpp",
+			"paths" : 
+			[
+				"C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/bench/dedup/ArrayDedup.cpp",
+				"C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/bench/dedup/main.cpp",
+				"C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/bench/measure-throughput/ThroughputTester.cpp",
+				"C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/bench/measure-throughput/main.cpp",
+				"C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/bench/search-name/FileFinder.cpp",
+				"C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/bench/search-name/main.cpp",
+				"C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/bench/sort/Sort.cpp",
+				"C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/bench/sort/main.cpp",
+				"C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/cmake-build-debug-event-trace/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+				"C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/cmake-build-debug/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+				"C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/monolith/HelloWorld.cpp",
+				"C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/monolith/app/Main.cpp",
+				"C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/monolith/shell/Command.cpp",
+				"C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/monolith/shell/Shell.cpp",
+				"C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/monolith/shell/commands/ChangeDir.cpp",
+				"C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/monolith/shell/commands/Exit.cpp",
+				"C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/monolith/shell/commands/Help.cpp",
+				"C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/monolith/shell/commands/History.cpp",
+				"C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/monolith/shell/commands/ListFiles.cpp",
+				"C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/monolith/shell/commands/PathToWorkingDir.cpp",
+				"C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/monolith/shell/commands/Run.cpp",
+				"C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/monolith/shell/factory/CommandFactory.cpp",
+				"C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/monolith/shell/utils/Path.cpp"
+			],
+			"recurse" : true
+		},
+		{
+			"expression" : "C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/*.hpp",
+			"paths" : [],
+			"recurse" : true
+		}
+	],
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug-event-trace/CMakeFiles/3.30.5/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/CLion 2024.3.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/CLion 2024.3.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug-event-trace/CMakeFiles/3.30.5/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug-event-trace/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/CLion 2024.3.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/CLion 2024.3.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/CLion 2024.3.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/CLion 2024.3.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/CLion 2024.3.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/CLion 2024.3.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/CLion 2024.3.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/CLion 2024.3.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/CLion 2024.3.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/CLion 2024.3.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/CLion 2024.3.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/CLion 2024.3.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug-event-trace/CMakeFiles/3.30.5/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/CLion 2024.3.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/CLion 2024.3.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/CLion 2024.3.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-C-ABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/CLion 2024.3.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/CLion 2024.3.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/CLion 2024.3.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/CLion 2024.3.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/CLion 2024.3.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/CLion 2024.3.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/CLion 2024.3.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/CLion 2024.3.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "E:/CLion 2024.3.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/cmake-build-debug-event-trace",
+		"source" : "C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}

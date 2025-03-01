@@ -1,0 +1,132 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "source",
+					"jsonFile" : "directory-source-Debug-be4710394502bfacce20.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "source",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "monolith"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "os-lab1",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "dedup::@411ffd8adc737496fe19",
+					"jsonFile" : "target-dedup-Debug-7a97529421d66f870f7b.json",
+					"name" : "dedup",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "os-lab1::@411ffd8adc737496fe19",
+					"jsonFile" : "target-os-lab1-Debug-e535e04b13d90a8cb61c.json",
+					"name" : "os-lab1",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "os-lab1-app::@411ffd8adc737496fe19",
+					"jsonFile" : "target-os-lab1-app-Debug-5a1c3bbd17ac2842f85f.json",
+					"name" : "os-lab1-app",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "search-name::@411ffd8adc737496fe19",
+					"jsonFile" : "target-search-name-Debug-bb6f41d34731a53554db.json",
+					"name" : "search-name",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "sort::@411ffd8adc737496fe19",
+					"jsonFile" : "target-sort-Debug-a4889cf21f97b1188d2e.json",
+					"name" : "sort",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "throughput_test::@411ffd8adc737496fe19",
+					"jsonFile" : "target-throughput_test-Debug-c5e4c1af660fde71d0ee.json",
+					"name" : "throughput_test",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/OS/clone/New folder/diy-shell-benchmark-24y-DuongAng/cmake-build-debug",
+		"source" : "D:/OS/clone/New folder/diy-shell-benchmark-24y-DuongAng"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

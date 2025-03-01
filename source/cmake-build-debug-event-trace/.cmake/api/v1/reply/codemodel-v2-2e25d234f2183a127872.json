@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "os-lab1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "dedup::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dedup-Debug-eaef503d4e262052e774.json",
+					"name" : "dedup",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "os-lab1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-os-lab1-Debug-02207744720bd95ba4ed.json",
+					"name" : "os-lab1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "os-lab1-app::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-os-lab1-app-Debug-623b5cfca3ff56207205.json",
+					"name" : "os-lab1-app",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "search-name::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-search-name-Debug-51cc96a9ce2b8caec8fa.json",
+					"name" : "search-name",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sort-Debug-c9f99c193abc83078a47.json",
+					"name" : "sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "throughput_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-throughput_test-Debug-e4e542e0c359b2ae4888.json",
+					"name" : "throughput_test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/cmake-build-debug-event-trace",
+		"source" : "C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

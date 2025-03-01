@@ -1,0 +1,8 @@
+C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/cmake-build-debug-event-trace/CMakeFiles/search-name.dir
+C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/cmake-build-debug-event-trace/CMakeFiles/dedup.dir
+C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/cmake-build-debug-event-trace/CMakeFiles/sort.dir
+C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/cmake-build-debug-event-trace/CMakeFiles/throughput_test.dir
+C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/cmake-build-debug-event-trace/CMakeFiles/os-lab1.dir
+C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/cmake-build-debug-event-trace/CMakeFiles/os-lab1-app.dir
+C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/cmake-build-debug-event-trace/CMakeFiles/edit_cache.dir
+C:/Users/TGDD/Desktop/diy-shell-benchmark-24y-Gnod-do/source/cmake-build-debug-event-trace/CMakeFiles/rebuild_cache.dir
