@@ -43,6 +43,12 @@
 
 Я обновил еще 3 папки в лабораторной работе 1: include, src и test.
 
+[include](https://github.com/DuongAng/OS-lab2/tree/main/source/include)
+
+[src](https://github.com/DuongAng/OS-lab2/tree/main/source/src)
+
+[test](https://github.com/DuongAng/OS-lab2/tree/main/source/test)
+
 Я буду говорить об Optimal Policy.
 
 Optimal Policy выберет для замены страницу с самым отдаленным временем доступа, поскольку она меньше всего нужна в ближайшем будущем.
